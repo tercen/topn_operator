@@ -22,5 +22,5 @@ in a shell:
 ```
 git add -A && git commit -m "init repo"
 git push
-git tag -a 0.0.1 -m "++" && git push --tags
+git tag -a 0.0.2 -m "++" && git push --tags
 ```
