@@ -20,7 +20,7 @@ renv::init()
 in a shell:
 
 ```
-git add -A && git commit -m "init repo"
+git add -A && git commit -m "fixed operator settings"
 git push
-git tag -a 0.0.2 -m "++" && git push --tags
+git tag -a 0.0.3 -m "++" && git push --tags
 ```
