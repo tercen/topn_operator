@@ -1,6 +1,6 @@
 {
-  "name": "topn",
-  "description": "Return the top element of a cell",
+  "name": "Top (N)",
+  "description": "Select a specified quantity (N) of data from the first record of the set onwards. (e.g. Top 10)",
   "tags": ["basic statistics"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/topn_operator"],
